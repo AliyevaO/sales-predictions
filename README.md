@@ -1,7 +1,6 @@
+**The project is a sales prediction for food items sold at various stores.**
 
-# The project is a sales prediction for food items sold at various stores.
-
-**Data Dictionary for this dataset:**
+Data Dictionary for this dataset:
 
 * **Item_Identifier** - Unique product ID
 * **Item_Weight** - Weight of product
