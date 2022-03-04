@@ -1,6 +1,6 @@
 ## Sales predictions
 
-The project is a sales prediction for food items sold at various stores. 
+In this project we are making predication for food item sales in different stores.
 
 Data Dictionary for this dataset:
 
