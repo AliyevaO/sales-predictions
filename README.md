@@ -1,9 +1,11 @@
 # **The project is a sales prediction for food items sold at various stores.**
 
 Data Dictionary for this dataset:
-
+------------------------------------
 |Item_Identifier| Unique product ID|
+------------------------------------
 |Item_Weight| Weight of product|
+------------------------------------
 |Item_Fat_Content| Whether the product is low fat or regular|
 |Item_Visibility| The percentage of total display area of all products in a store allocated to the particular product|
 |Item_Type| The category to which the product belongs|
