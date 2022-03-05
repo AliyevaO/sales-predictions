@@ -37,3 +37,4 @@ In my project I used 3 different prediction models: Linear regression, Decision 
 * Testing performance - 0.603 
 * Testing RMSE - 1047.069
 
+**After using 3 Maching Learning models we can tell that the best result we get with Random Forest Model. However this results are still low to be able to make a good predictions on our product sales.**
