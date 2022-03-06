@@ -17,8 +17,17 @@ Data Dictionary for this dataset:
 * **Outlet_Type** -	Whether the outlet is a grocery store or some sort of supermarket
 * **Item_Outlet_Sales**	- Sales of the product in the particular store. This is the target variable to be predicted.
 
+An example of visualizations made to analyse Data in this project.
 
+![](Images/Sales%20of%20Products%20in%20Different%20Type%20of%20Outlets.png)
 
+![](Images/Total%20Sales%20by%20Store.png)
+
+![](Images/Total%20Sales%20by%20Product%20Type%20Across%20All%20Stores.png)
+
+![](Images/Relationship%20Between%20Product%20Category%20and%20Product%20Visibility.png)
+
+![](Images/Visibility%20of%20Different%20Product%20Categories%20in%20Store%20OUT027.png)
 
 In my project I used 3 different prediction models: Linear regression, Decision Tree, Random forest model. Result of used models:
 
