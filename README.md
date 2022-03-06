@@ -16,16 +16,41 @@ Data Dictionary for this dataset:
 * **Outlet_Location_Type** -	The type of area in which the store is located
 * **Outlet_Type** -	Whether the outlet is a grocery store or some sort of supermarket
 * **Item_Outlet_Sales**	- Sales of the product in the particular store. This is the target variable to be predicted.
+**********************************************************************************************************************************
 
-An example of visualizations made to analyse Data in this project.
+**Some of visualizations made to analyse Data in this project.**
+
 
 ![](Images/Sales%20of%20Products%20in%20Different%20Type%20of%20Outlets.png)
 
+Highest Sales of Products has Supermarket Type 3.
+It is 
+* 37% more than Supermarket Type 1. 
+* 46% more than Supermarket Type 2
+* 91% more than Grocery Store
+
+
+
 ![](Images/Total%20Sales%20by%20Store.png)
 
-![](Images/Relationship%20Between%20Product%20Category%20and%20Product%20Visibility-2.png)
+OUT027 has $ 3,453,926 of total sales.
+
+This store is from Outlet Type – Supermarket Type 3.
+
+It’s location is Tier3.
+
+**Conclusion:** The most effective sale produced in Supermarket Type 3, that located in Tier3 area and belongs to Outlet Store - OUT027. 
 
 
+ Visibility comparison of Product Categories in all stores and in Store OUT027
+
+![](Images/Relationship%20Between%20Product%20Category%20and%20Product%20Visibility.png)
+
+![](Images/Visibility%20of%20Different%20Product%20Categories%20in%20Store%20OUT027.png)
+
+Most of the Product Categories in Store OUT027 have less visibility that average in all stores. 
+
+*****************************************************************************************************************************
 In my project I used 3 different prediction models: Linear regression, Decision Tree, Random forest model. Result of used models:
 
 **Linear regression model:**
